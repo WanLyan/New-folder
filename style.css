@@ -1,0 +1,86 @@
+.Container{
+    /*background-color: ;*/
+}
+
+.row img{
+    max-width: 8%;
+    min-width: 7%;
+    margin-left: 1.5in;
+}
+
+.logo{
+    text-align: center;
+    padding-left: 1.2in;
+}
+
+h2{
+    float: right;
+    margin-top: 4px;
+    padding-right: 2.5in;
+}
+
+nav{
+    
+    margin-top: 10px;
+    padding-right: 1.75in;
+}
+
+nav a{
+    padding-left: 0.5cm;
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.image2{
+    padding-top: 5px;
+    max-height: 30%;
+    text-align: center;
+}
+
+.image2 img{
+    max-width: 60%;
+}
+
+/*.first{
+    background-color: rgb(218, 207, 207);
+}*/
+
+.first p{
+    font-weight: 600;
+    text-align: center;
+    padding: 25px 0px;
+    font-size: x-large;    
+}
+
+.colformenu{
+    background-color: rgb(168, 167, 167);
+    text-align: center;
+}
+
+
+
+.list1{
+    text-align: center;
+    margin-left: 2in;
+}
+
+.list2{
+    text-align: start;
+    list-style-type: none;
+}
+
+.lorem{
+    text-align: center;
+  
+}
+
+.list1 ul{
+    list-style-type: none;
+}
+
+.Container{
+    background-color: #f57017;
+}
